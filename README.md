@@ -9,3 +9,4 @@ C++ Questions
 5. What's Ruby?
 5. What's B?
 6. What's RAM?
+7. What's ROM?
